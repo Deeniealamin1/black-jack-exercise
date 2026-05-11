@@ -1,4 +1,5 @@
 package com.pluralsight;
 
-public class Suit {
+public enum Suit {
+    HEARTS, SPADES, DIAMONDS, CLUBS
 }
